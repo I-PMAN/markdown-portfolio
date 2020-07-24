@@ -1,3 +1,3 @@
-- [ ] Cheese
-- [ ] Mushrooms
-- [ ] Strawberries
+- Cheese
+- Mushrooms
+- Strawberries
